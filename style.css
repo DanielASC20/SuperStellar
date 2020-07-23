@@ -1,0 +1,65 @@
+.menu_bar {
+    display: flex;
+    justify-content: space-between;
+    background-color:white;
+    padding-left: 20px;
+    padding-right: 30px;
+    flex-wrap: nowrap;
+    text-decoration: none;
+}
+.contact {
+    width: 45px;
+    height: 45px;
+    align-items: center;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+img {
+    width: 150px;
+    height: 50px;
+}
+.menu {
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+    display: flex;
+    align-items: center;
+    border: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.intro{
+    margin:200px;
+    text-align: center;
+    
+}
+
+body{
+    background-image: url(https://i.picsum.photos/id/814/1920/1080.jpg?hmac=EQPX3BZ5gp14O2lu9YJ1S9clf-X1Mc6_7Q99HVjOcHU);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.learn_more{
+   position: relative;
+   margin-top: 100px;
+}
+.number {
+    color: gold;
+}
+
+.about_us{
+    background-color: rgb(61, 61, 61);
+    padding: 20px;
+    color: white;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.topic {
+    font-size: 20px;
+}
+.gold {
+    color: goldenrod;
+}
+
+.about_us_link{
+    color: white;
+}
