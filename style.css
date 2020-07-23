@@ -47,7 +47,6 @@ body{
 
 .about_us{
     background-color: rgb(61, 61, 61);
-    padding: 20px;
     color: white;
     text-align: center;
     padding-left: 100px;
@@ -62,4 +61,5 @@ body{
 
 .about_us_link{
     color: white;
+    font-weight: bold;
 }
